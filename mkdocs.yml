@@ -1,7 +1,7 @@
 site_name: WICC Developer Docs
 
 nav:
-  - 1. Development Environment:
+  - 1. 节点部署:
       - '1.0 WaykiChian': 'index.md'
       - '1.1 Introduction': 'en/Introduction/introduction.md'
       - '1.2 Installing a Node': 'en/NodeDeployment/require.md'
