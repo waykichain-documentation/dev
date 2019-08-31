@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #fff;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="组_16397" data-name="组 16397" transform="translate(-532 -527)">
+    <g id="椭圆_3470" data-name="椭圆 3470" class="cls-1" transform="translate(532 527)">
+      <circle class="cls-3" cx="12" cy="12" r="12"/>
+      <circle class="cls-4" cx="12" cy="12" r="11"/>
+    </g>
+    <g id="组_16396" data-name="组 16396" transform="translate(542.475 534.949)">
+      <g id="组_10364" data-name="组 10364">
+        <path id="路径_11322" data-name="路径 11322" class="cls-2" d="M6923.183,11544.018l4,4-4,4" transform="translate(-6923.183 -11544.018)"/>
+      </g>
+    </g>
+  </g>
+</svg>

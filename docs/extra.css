@@ -1,0 +1,58 @@
+.wy-nav-content {
+    max-width: 100%;
+}
+.wy-menu-vertical a {
+    font-size: 70%;
+}
+.wy-breadcrumbs li {
+    font-size: 180%;
+    display: inline-block;
+}
+
+.wy-breadcrumbs li a:first-child {
+    display: none;
+}
+.wy-breadcrumbs li:nth-child(1) {
+    display: none;
+    /*color: red;*/
+}
+
+.wy-breadcrumbs li:nth-child(2) {
+    display: none;
+    /*color: red;*/
+}
+
+.wy-side-nav-search .wy-dropdown{
+    font-size: 100%;
+}
+
+.wy-side-nav-search {
+    background-color: #000000
+}
+.wy-menu-vertical li ul.subnav ul.subnav {
+    display: none;
+}
+.wy-menu-vertical span {
+    color: #d0d0d0;
+    padding-top: 30px;
+}
+.wy-menu-vertical .subnav a {
+    padding: 0.2045em 2.427em;
+}
+pre code {
+    font-size: 14px;
+}
+
+/*.wy-body-for-nav .keep-us-sustainable {*/
+    /*color: #343131;*/
+    /*display:none;*/
+/*}*/
+/*footer{*/
+    /*display: none;*/
+/*}*/
+
+/*.rst-footer-buttons {*/
+    /*display: block;*/
+/*}*/
+
+

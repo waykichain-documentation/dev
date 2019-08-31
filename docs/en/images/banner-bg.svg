@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="715" viewBox="0 0 1920 715">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.851" y1="0.526" x2="0.533" y2="0.306" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0497f9"/>
+      <stop offset="1" stop-color="#1668f2"/>
+    </linearGradient>
+  </defs>
+  <rect id="矩形_144" data-name="矩形 144" class="cls-1" width="1920" height="715"/>
+</svg>

@@ -1,0 +1,8 @@
+.DS_Store
+.vscode/
+book-src/_book/
+.history
+.Ulysses-Group.plist
+.Ulysses-favorites.plist
+.idea
+

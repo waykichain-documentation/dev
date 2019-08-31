@@ -1,0 +1,64 @@
+site_name: WICC Developer Docs
+
+nav:
+  - 1. Development Environment:
+      - '1.0 WaykiChian': 'index.md'
+      - '1.1 Introduction': 'en/Introduction/introduction.md'
+      - '1.2 Installing a Node': 'en/NodeDeployment/require.md'
+      - '1.3 Build': 'en/NodeDeployment/build.md'
+      - '1.4 Config': 'en/NodeDeployment/conf.md'
+      - '1.5 Private Net': 'en/NodeDeployment/privatenet.md'
+      - '1.6 Testnet': 'en/NodeDeployment/testnet.md'
+      - '1.7 Mainnet': 'en/NodeDeployment/mainnet.md'
+      - '1.8 Operations': 'en/NodeDeployment/problem.md'
+  - 2. Smart Contract Development:
+      - '2.1 Hello World': 'en/Contract/helloworld.md'
+      - '2.2 Developer Guide': 'en/Contract/develop_guide.md'
+      - '2.3 Contract API': 'en/Contract/contract_api.md'
+      - '2.4 Common functions': 'en/Contract/common_func.md'
+      - '2.5 API Usage': 'en/Contract/api_complement.md'
+      - '2.6 mylib use cases': 'en/Contract/api_debug.md'
+      - '2.7 Creating a WRC20 token': 'en/Contract/ico_sample.md'
+
+  - JSON-APC API:
+      - 'Account': 'en/JsonRpcApi/account.md'
+      - 'Wallet': 'en/JsonRpcApi/wallet.md'
+      - 'Block': 'en/JsonRpcApi/block.md'
+      - 'Transactions': 'en/JsonRpcApi/tx.md'
+      - 'Smart Contract': 'en/JsonRpcApi/contract.md'
+      - 'Error Info': 'en/JsonRpcApi/errorinfo.md'
+
+  - Resources and Tools:
+      - 'WaykiMax': 'en/DeveloperHelper/webextension.md'
+      - 'WaykiMix': 'en/DeveloperHelper/waykimix.md'
+      - 'WaykiBridge': 'en/DeveloperHelper/application_api.md'
+      - 'BaaS': 'en/DeveloperHelper/baas.md'
+      - 'Blockchain Explorer': 'en/DeveloperHelper/block_browser.md'
+      - 'Faucet': 'en/DeveloperHelper/faucet.md'
+  - Exchange and Wallet:
+      - 'Integration Guide': 'en/Exchange/integrationguide.md'
+      - 'Andriod': 'en/Exchange/Android.md'
+      - 'IOS Signature library': 'en/Exchange/Ios.md'
+      - 'JavaScript Signature library': 'Exchange/js.md'
+      - 'Goland and Java': 'en/Exchange/other.md'
+      - 'Wallet Payment Code Standard': 'en/Exchange/bip21.md'
+      - 'Mapping': 'en/Exchange/map.md'
+  - FAQ:
+      - 'Integration Guide': 'en/Problem/question.md'
+      - 'Andriod': 'en/Problem/contactus.md'
+  - WayKiChain Facts:
+      - 'Blockchain basics': 'en/Knowledge/blockchain.md'
+      - 'WayKiChain': 'en/Knowledge/waykichain.md'
+  - Incentive Program:
+       - 'Bug Bounty': 'en/Introduction/bugbounty.md'
+       - 'Invite': 'en/Introduction/invite.md'
+       - 'Result': 'en/Introduction/result.md'
+  - Privacy:
+      - 'Privacy Policy': 'en/Privacy/PrivacyPolicy.md'
+      - 'WayKiChain': 'en/Knowledge/waykichain.md'
+
+
+theme: readthedocs
+extra_css: [extra.css]
+extra_javascript: [extra.js]
+
